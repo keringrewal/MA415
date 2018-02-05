@@ -1,0 +1,7 @@
+]0;~/Documents/MA415/MA415[?1034hdhcp-wifi-8021x-155-41-82-183:MA415 keringrewal$ [Kdhcp-wifi-8021x-155-41-82-183:MA415 keringrewal$ [Kdhcp-wifi-8021x-155-41-82-183:MA415 keringrewal$ devtools::install_gith ub("rstudio/rmarkdown")
+bash: syntax error near unexpected token `"rstudio/rmarkdown"'
+]0;~/Documents/MA415/MA415dhcp-wifi-8021x-155-41-82-183:MA415 keringrewal$ p = `r signif(cor.HF$p .value, 2)`$
+bash: command substitution: line 1: syntax error near unexpected token `('
+bash: command substitution: line 1: `r signif(cor.HF$p.value, 2)'
+bash: p: command not found
+]0;~/Documents/MA415/MA415dhcp-wifi-8021x-155-41-82-183:MA415 keringrewal$ 
